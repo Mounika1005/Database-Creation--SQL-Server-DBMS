@@ -4,6 +4,7 @@ Created a "SCHEDULE" database using SQL server DBMS containing  12 mandatory att
 # Repository content
 * Data Folder -- Contains all the tables and RAW Data details
 * Schedule_Database sql file 
+* Business Rules and Assumptions
 * ER Diagram
 * Logical Data Modeling - Relational Model
 * Functional Dependency
