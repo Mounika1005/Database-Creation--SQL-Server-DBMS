@@ -1,0 +1,14 @@
+# Following are the Business Rules asummed to create the DB
+
+* Each student has a unique NetID and can major in any one of the courses he/she wishes to.
+* Each student can enroll in one or more courses.
+* Students can use their NetID to enroll in any course of their choice using specific course ID and the instructor.
+* After the student successfully completes all courses in the program tenure he/she graduates in the final semester called graduation semester.
+* Each course is taught by one or more instructors.
+* Each instructor teaches one or more courses each semester.
+* A specific classroom is assigned for a specific course and instructor.
+* Each instructor can be identified uniquely with their ID (Instructor ID).
+* Each instructor is assigned an office where the students can contact them outside classroom hours.
+* Instructor suggests one or more books for the courses for reference.
+* Every course has a specific number of credit hours assigned.
+
