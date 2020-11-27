@@ -1,6 +1,15 @@
 # Database-Creation--SQL-Server-DBMS
 Created a "SCHEDULE" database using SQL server DBMS containing  12 mandatory attributes
 
+# Repository content
+* Data Folder -- Contains all the tables and RAW Data details
+* Schedule_Database sql file 
+* ER Diagram
+* Logical Data Modeling - Relational Model
+* Functional Dependency
+* Queries Folder -- Contains all the queries executed
+* Query Outout Folder -- Contains all the outputs of the queries run
+
 # Following are the attributes for the database: 
 * NetID                   
 * StudentName             
